@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "luminaria_ingot",
+  "ingredients": [
+    {
+      "item": "x4mokmod:raw_luminaria_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "x4mokmod:raw_luminaria"
+  }
+}
