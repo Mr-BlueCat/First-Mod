@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:blasting",
+  "type": "minecraft:smelting",
   "cookingtime": 200,
   "experience": 7,
-  "group": "luminaria_ingot",
+  "group": "luminaria_sliver",
   "ingredient": {
     "item": "x4mokmod:deepslate_luminaria_ore"
   },
-  "result": "x4mokmod:luminaria_ingot"
+  "result": "x4mokmod:luminaria_sliver"
 }

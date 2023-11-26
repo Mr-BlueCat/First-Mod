@@ -17,6 +17,9 @@ public class ModItems {
     public static final RegistryObject<Item> RAW_LUMINARIA = ITEMS.register("raw_luminaria",
             () -> new Item(new Item.Properties().stacksTo(64).tab(ModCreativeModeTab.X4MOKMOD_TAB)));
 
+    public static final RegistryObject<Item> LUMINARIA_SLIVER = ITEMS.register("luminaria_sliver",
+            () -> new Item(new Item.Properties().stacksTo(64).tab(ModCreativeModeTab.X4MOKMOD_TAB)));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

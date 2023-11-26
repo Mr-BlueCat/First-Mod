@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "luminaria_ingot",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "x4mokmod:luminaria_sliver"
+    },
+    {
+      "item": "x4mokmod:luminaria_sliver"
+    },
+    {
+      "item": "x4mokmod:luminaria_sliver"
+    },
+    {
+      "item": "x4mokmod:luminaria_sliver"
+    }
+  ],
+  "result": {
+    "item": "x4mokmod:luminaria_ingot"
+  }
+}
