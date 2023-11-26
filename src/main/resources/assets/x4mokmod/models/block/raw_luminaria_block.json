@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "x4mokmod:block/raw_luminaria_block"
+  }
+}
