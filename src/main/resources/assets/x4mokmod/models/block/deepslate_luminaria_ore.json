@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "x4mokmod:block/deepslate_luminaria_ore"
-  }
-}

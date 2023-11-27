@@ -2,6 +2,11 @@
   "item.x4mokmod.luminaria_ingot": "Luminaria Ingot",
   "item.x4mokmod.raw_luminaria": "Raw Luminaria",
   "item.x4mokmod.luminaria_sliver": "Luminaria Sliver",
+  "item.x4mokmod.luminaria_sword": "§4§lL§c§lu§6§lm§e§li§a§ln§9§la§1§lr§d§li§5§la §0§lSword",
+  "item.x4mokmod.luminaria_pickaxe": "§4§lL§c§lu§6§lm§e§li§a§ln§9§la§1§lr§d§li§5§la §0§lPickaxe",
+  "item.x4mokmod.luminaria_axe": "§4§lL§c§lu§6§lm§e§li§a§ln§9§la§1§lr§d§li§5§la §0§lAxe",
+  "item.x4mokmod.luminaria_shovel": "§4§lL§c§lu§6§lm§e§li§a§ln§9§la§1§lr§d§li§5§la §0§lShovel",
+  "item.x4mokmod.luminaria_hoe": "§4§lL§c§lu§6§lm§e§li§a§ln§9§la§1§lr§d§li§5§la §0§lHoe",
 
   "block.x4mokmod.luminaria_block": "Block of Luminaria",
   "block.x4mokmod.raw_luminaria_block": "Block of Raw Luminaria",

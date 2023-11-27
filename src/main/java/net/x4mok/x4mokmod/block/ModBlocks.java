@@ -25,7 +25,6 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> LUMINARIA_BLOCK = registerBlock("luminaria_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.X4MOKMOD_TAB);
     public static final RegistryObject<Block> LUMINARIA_ORE = registerBlock("luminaria_ore", () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.AMETHYST).strength(6f).requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.X4MOKMOD_TAB);
-    public static final RegistryObject<Block> DEEPSLATE_LUMINARIA_ORE = registerBlock("deepslate_luminaria_ore", () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.AMETHYST).strength(6f).requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.X4MOKMOD_TAB);
     public static final RegistryObject<Block> RAW_LUMINARIA_BLOCK = registerBlock("raw_luminaria_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.X4MOKMOD_TAB);
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
